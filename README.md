@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniketsingh0512
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Natural Language Processing, Deep Learning, Machine Learning, Python, SQL
+- 💞️ I’m looking to collaborate on Natural Language Processing, Deep Learning, Machine Learning, Python, SQL, Data Analytics, Data Visualization
 - 📫 You can reach me through Mail [ niksingh8211@gmail.com ]
 
 <!---
